@@ -1,5 +1,5 @@
 % EDITED TO WORK WITH "constructing_unnorm_Laplacian.m", 
-% "constructing_RW_Laplacian.m" and "constructing_SYM_Laplacian.m" (JWT)
+% "constructing_RW_Laplacian.m" and "constructing_SYM_Laplacian.m" (JT)
 
 %clear all;
 %start clock
