@@ -5,7 +5,7 @@
 % based on nearest centre and measures accuracy
 % edit lines 22-29 "true" to select similarity function and centres
 % dimensions
-% (James WT)
+% (JT)
 
 clear all;
 
