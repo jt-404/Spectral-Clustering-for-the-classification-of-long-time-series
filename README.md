@@ -6,3 +6,5 @@ The dataset used can be found at https://ebrary.net/59044/education/details_publ
 
 Accuracy data for timeseries (clusters(a)=clusters(b)).xlsx contains the results (with each 10x10 grid labeled, showing the clusters per class on the vertical and the class pair on the horizontal).
 
+
+MATLAB version: R2022b MATLAB 9.13
